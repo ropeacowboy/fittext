@@ -1,15 +1,17 @@
 /* Styling */
 
-@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+
 
 body {
-    background: rgba(163, 37, 255, 0.75);
+    background: #afebad;
 }
 
 h2 {
   color: #a10022;
   font-size: 6em;
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Baloo', cursive;
   text-transform: uppercase;
   text-align: center;
 }
